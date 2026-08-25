@@ -1,0 +1,6 @@
+{
+  "name": "Tools Affiliate Utama",
+  "description": "Suite lengkap pembuat konten affiliate AI: Product Image Single Angle, Multi Angle, AI Host Creator, dan Affiliate Video Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
